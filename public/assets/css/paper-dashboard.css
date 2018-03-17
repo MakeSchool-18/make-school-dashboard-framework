@@ -5576,7 +5576,7 @@ strong {
 }
 
 .main-panel {
-  background-color: #f4f3ef;
+  background-color: #DAEBF1;
   overflow: auto;
   position: relative;
   z-index: 2;
@@ -7467,7 +7467,7 @@ star {
 }
 
 .navbar-default {
-  background-color: #f4f3ef;
+  background-color: #DAEBF1;
   border-bottom: 1px solid #cfcfca;
 }
 .navbar-default .brand {
@@ -10783,7 +10783,7 @@ star {
     transition: opacity 150ms ease-in;
   }
   .sidebar .sidebar-wrapper li.active > a:not([data-toggle="collapse"]):after {
-    border-right: 17px solid #f4f3ef;
+    border-right: 17px solid #DAEBF1;
     border-top: 17px solid transparent;
     border-bottom: 17px solid transparent;
     content: "";
@@ -10927,7 +10927,7 @@ star {
   }
   .sidebar .sidebar-wrapper li.active > a:not([data-toggle="collapse"]):after,
   .off-canvas-sidebar .sidebar-wrapper li.active > a:not([data-toggle="collapse"]):after {
-    border-left: 12px solid #f4f3ef;
+    border-left: 12px solid #DAEBF1;
     border-top: 12px solid transparent;
     border-bottom: 12px solid transparent;
     content: "";
